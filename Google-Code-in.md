@@ -5,7 +5,7 @@ I also received a certificate and a T-shirt from Google as a token of appreciati
 
 ## Certificate
 
-![GCI 2019](https://github.com/pranav-m-r/Google-Code-in/assets/148135964/47e47a5e-d1bb-4c4d-ae92-fdc6b9fc9d8b)
+![GCI 2019](https://github.com/pranav-m-r/Certificates/assets/148135964/648da68e-64a2-495a-bff8-1b4c6b5cd40b)
 
 ## Tasks Completed
 
