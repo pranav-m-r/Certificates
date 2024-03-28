@@ -11,6 +11,8 @@ I also received a certificate and a T-shirt from Google as a token of appreciati
 
 Name visible under "STUDENTS WHO COMPLETED THIS TASK".
 
-#### 1. https://codein.withgoogle.com/archive/2019/organization/5124514992619520/task/4629531829207040/
-#### 2. https://codein.withgoogle.com/archive/2019/organization/6304121049579520/task/6549012910440448/
+#### 1. Liquid Galaxy Project :
+https://codein.withgoogle.com/archive/2019/organization/5124514992619520/task/4629531829207040/
+#### 2. OpenWISP :
+https://codein.withgoogle.com/archive/2019/organization/6304121049579520/task/6549012910440448/
 #### 3. Link not found :(
